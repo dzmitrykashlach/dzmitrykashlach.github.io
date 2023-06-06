@@ -15,13 +15,13 @@ permalink: /resume/
 2 year of experience in performance analysis of high-load monolithic application;  
 4 years of experience with Jenkins;  
 Experience with Angular 14, Apache Kafka and Spring WebFlux in scope of personal pet-projects;  
-Passion for solving algorithmic problems;  
+I spend part of my spare time on deepening knowledge in discrete programming(graph theory, combinatorics) area;   
 I believe that attention to people is the most valuable resource and communication is as valuable as technical skills;  
 
 
 #### __Work Experience__
-#### `Sep, 2022 - Dec, 2022`  Senior Java Developer, [Softteco](https://softteco.com/)
-Reduced amount of escalations from users by 25%(5 emails/week) by implementing REST API integration(Spring Boot/Data/Security) with online payments provider;  
+#### `Sep, 2022 - Current`  Senior Java Developer, [Jay.Devs](https://jaydevs.com/)
+Open API for loan product, API is used for integrating partners: development, communication, documentation;  
 #### `Apr, 2020 - Jun, 2022`  Senior Java Developer, [EPAM](https://epam.com/)
 Reduced amount of manual work(9%, 16 hours/month) for performance analyst by integrating
 system(enterprise tool for collaboration, Spring MVC, Atlassian Confluence, ~100k users, ~1TB MySQL)  
@@ -63,6 +63,7 @@ Designed and contributed to open-source project [Apache JMeter DNS Cache manager
 | SQL(MySQL,Postgre)                | Advanced     | 4                   |
 | Git                               | Advanced     | 8                   |
 | REST API                          | Advanced     | 5                   |
+| RPC(Apache Thrift)                | Intermediate | 1                   |
 | Performance Analysis              | Advanced     | 2                   |  
 
 #### __Education__
