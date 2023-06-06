@@ -15,7 +15,7 @@ permalink: /resume/
 2 year of experience in performance analysis of high-load monolithic application;  
 4 years of experience with Jenkins;  
 Experience with Angular 14, Apache Kafka and Spring WebFlux in scope of personal pet-projects;  
-Passion for solving algorithmic problems;  
+I spend part of my spare time on deepening knowledge in discrete programming(graph theory, combinatorics) area;   
 I believe that attention to people is the most valuable resource and communication is as valuable as technical skills;  
 
 
@@ -63,6 +63,7 @@ Designed and contributed to open-source project [Apache JMeter DNS Cache manager
 | SQL(MySQL,Postgre)                | Advanced     | 4                   |
 | Git                               | Advanced     | 8                   |
 | REST API                          | Advanced     | 5                   |
+| RPC(Apache Thrift)                | Intermediate | 1                   |
 | Performance Analysis              | Advanced     | 2                   |  
 
 #### __Education__
