@@ -20,8 +20,8 @@ I believe that attention to people is the most valuable resource and communicati
 
 
 #### __Work Experience__
-#### `Sep, 2022 - Current`  Senior Java Developer, [Jay.Devs](https://jaydevs.com/)
-Open API for loan product, API is used for integrating partners: development, communication, documentation;  
+#### `Sep, 2022 - Current`  Senior Java Developer, [Jay.Devs](https://jaydevs.com/)  
+Open API for integrating partners with loan product: refactoring & creating new functionality  
 #### `Apr, 2020 - Jun, 2022`  Senior Java Developer, [EPAM](https://epam.com/)
 Reduced amount of manual work(9%, 16 hours/month) for performance analyst by integrating
 system(enterprise tool for collaboration, Spring MVC, Atlassian Confluence, ~100k users, ~1TB MySQL)  
