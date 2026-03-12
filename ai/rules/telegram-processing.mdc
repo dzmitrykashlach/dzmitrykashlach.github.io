@@ -1,0 +1,15 @@
+---
+name: telegram-processing
+description: "Telegram channel processing behavior for job channels"
+alwaysApply: true
+---
+# Telegram Processing
+
+- Use each row in **`job/job-channels.md`** as a configured source URL (cursor for *which* feeds to poll).
+- Record outcomes only in **`job/channel-checkpoints.json`**:
+  - If channel is inaccessible, set **`status`** to `401 No access`.
+  - If channel is accessible but parsing fails after a retry on rendered content, set **`status`** to `Parse failed`.
+  - If parsing succeeds and no relevant vacancy is found, set **`last_relevant_url`** to `null` and **`status`** to `No match` as appropriate.
+  - If matching yields a relevant vacancy, set **`last_relevant_url`** and **`status`** (`Match`).
+- Prefer canonical Telegram URLs (`https://t.me/...`).
+- Keep processing deterministic and reproducible from **`job/job-channels.md`** + **`job/channel-checkpoints.json`**.

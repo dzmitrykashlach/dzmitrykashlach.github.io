@@ -1,0 +1,11 @@
+---
+description: Keep vacancy results limited to the last 14 days
+alwaysApply: true
+---
+
+# Vacancy Freshness Window
+
+- For `job/positions.md`, include only positions whose post/publication date is within the last 14 days (UTC) at processing time.
+- Exclude older posts even if they otherwise match resume fit.
+- When publication date cannot be determined reliably, exclude the item to keep freshness conservative.
+- Keep this rule aligned with existing resume-fit filtering (Java/Kotlin backend relevance still required).

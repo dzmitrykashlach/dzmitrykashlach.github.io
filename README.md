@@ -82,6 +82,24 @@ bundle exec jekyll build
 
 The output will be in the `_site` directory. This directory is typically git-ignored.
 
+## Export resume to PDF
+
+Install JS dependencies once:
+
+```bash
+npm install
+```
+
+Generate both resume PDFs (EN + RU):
+
+```bash
+npm run pdf:resume
+```
+
+Generated files:
+- `_site/resume/resume_en.pdf`
+- `_site/resume/resume_ru.pdf`
+
 ## Troubleshooting
 
 ### Port Already in Use

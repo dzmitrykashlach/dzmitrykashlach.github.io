@@ -1,0 +1,11 @@
+---
+name: safe-editing-jekyll
+description: "Avoid editing generated or dependency artifacts in Jekyll repo"
+alwaysApply: true
+---
+# Safe Editing For Jekyll Repo
+
+- Never edit `_site/**` directly.
+- Never edit `node_modules/**`.
+- Prefer changing only source markdown/config files.
+- For vacancy tooling: edit **`job/channel-checkpoints.json`** for crawl/match state; keep **`job/job-channels.md`** as URL list only unless adding/removing sources.

@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "updated_at_utc": "2026-04-21 17:58 UTC",
+  "sources": {
+    "https://www.keycloak.org/2026/04/keycloak-2660-released": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-04-08 00:00 UTC",
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://www.keycloak.org/docs/latest/release_notes/index": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": null,
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://github.com/keycloak/keycloak/releases": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-04-15 13:57 UTC",
+      "last_relevant_url": "https://github.com/keycloak/keycloak/releases",
+      "status": "Match"
+    },
+    "https://quarkus.io/blog/quarkus-3-34-released/": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": null,
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://quarkus.io/blog/quarkus-3-34-2-released/": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": null,
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://quarkus.io/blog/": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": null,
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://spring.io/blog/2026/03/13/spring-framework-6-2-17-and-7-0-6-available-now": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-03-13 00:00 UTC",
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://spring.io/blog": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-04-21 00:00 UTC",
+      "last_relevant_url": "https://spring.io/blog/2026/04/21/spring-security-releases",
+      "status": "Match"
+    },
+    "https://github.com/spring-projects/spring-framework/releases": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-04-17 07:06 UTC",
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://jdk.java.net/26/release-notes": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": null,
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://www.oracle.com/java/technologies/javase/26all-relnotes.html": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-04-21 00:00 UTC",
+      "last_relevant_url": "https://www.oracle.com/java/technologies/javase/26all-relnotes.html",
+      "status": "Match"
+    },
+    "https://www.oracle.com/java/": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": null,
+      "last_relevant_url": null,
+      "status": "401 No access"
+    },
+    "https://blog.jetbrains.com/kotlin/2026/03/kotlin-2-3-20-released/": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-03-16 00:00 UTC",
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://kotlinlang.org/docs/whatsnew2320.html": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-03-16 00:00 UTC",
+      "last_relevant_url": null,
+      "status": "No match"
+    },
+    "https://blog.jetbrains.com/kotlin/category/releases/": {
+      "last_checked_at_utc": "2026-04-21 17:58 UTC",
+      "last_item_published_at_utc": "2026-03-16 00:00 UTC",
+      "last_relevant_url": null,
+      "status": "No match"
+    }
+  }
+}

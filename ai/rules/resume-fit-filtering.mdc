@@ -1,0 +1,12 @@
+---
+name: resume-fit-filtering
+description: "Filter vacancies by resume fit (Java/Kotlin backend)"
+alwaysApply: true
+---
+# Resume Fit Filtering
+
+- Use `https://dzmitrykashlach.github.io/resume/en` as fit baseline.
+- Matching vacancies should prioritize Java/Kotlin backend roles.
+- Exclude pure frontend, QA-only, or non-engineering roles unless clearly backend-relevant.
+- Favor vacancies mentioning backend stack, JVM ecosystem, and service development.
+- Keep selection conservative when relevance is ambiguous.

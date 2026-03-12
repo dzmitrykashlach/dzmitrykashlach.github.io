@@ -1,6 +1,12 @@
 _site
+job/collected_raw.json
+
+# Gemini CLI — optional project API keys / local overrides
+.gemini/settings.json
+.gemini/settings.local.json
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 .idea
+node_modules

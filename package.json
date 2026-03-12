@@ -1,0 +1,26 @@
+{
+  "name": "dzmitrykashlach.github.io",
+  "version": "1.0.0",
+  "description": "A Jekyll-based personal website and blog, hosted on GitHub Pages.",
+  "main": "index.js",
+  "scripts": {
+    "build:site": "bundle exec jekyll build",
+    "pdf:resume:en": "node scripts/export-resume-pdf.mjs en",
+    "pdf:resume:ru": "node scripts/export-resume-pdf.mjs ru",
+    "pdf:resume": "npm run build:site && npm run pdf:resume:en && npm run pdf:resume:ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzmitrykashlach/dzmitrykashlach.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzmitrykashlach/dzmitrykashlach.github.io/issues"
+  },
+  "homepage": "https://github.com/dzmitrykashlach/dzmitrykashlach.github.io#readme",
+  "devDependencies": {
+    "chrome-headless-render-pdf": "^1.11.0"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "version": 1,
+  "updated_at_utc": "2026-04-21 19:22 UTC",
+  "channels": {
+    "https://t.me/s/geekjobs": {
+      "last_post_id": "10070",
+      "last_post_hash": "aea5d427115956834a984a4f07e9029444a571ebf69bc6aeb80cfca8d7271755",
+      "last_relevant_url": "https://t.me/geekjobs/10053",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/aston_jobs": {
+      "last_post_id": "797",
+      "last_post_hash": "79faae8d9d3079561523aab9a04c921a27287cf0f29f42fa27e1c1a48fa00220",
+      "last_relevant_url": "https://t.me/aston_jobs/783",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/alljvmjobs": {
+      "last_post_id": "4653",
+      "last_post_hash": "5b1aa874f29967be02ec5ab91a94a433f8ded9b1d7a83de754ce1d65aca264c6",
+      "last_relevant_url": "https://t.me/alljvmjobs/4653",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/habr_career": {
+      "last_post_id": "75045",
+      "last_post_hash": "982277e9e3974aef5c1bdb8d860eb8b900b256a0fae123d2c58c49100f440f76",
+      "last_relevant_url": "https://t.me/habr_career/75039",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/javaoffers": {
+      "last_post_id": "468",
+      "last_post_hash": "4f7a5906c7e1a2aa96b3ff5fa8537728aa740ec8274e4b76b5023973f4f61957",
+      "last_relevant_url": "https://t.me/javaoffers/466",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/javadevjob": {
+      "last_post_id": "3326",
+      "last_post_hash": "9114d45f3ab7e52f6c4f704d17ce188fb98d04f87c53e6722d8d95557c372670",
+      "last_relevant_url": "https://t.me/javadevjob/3326",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/jvmjobs": {
+      "last_post_id": "6051",
+      "last_post_hash": "a68f7bfaa4eca128a3028a4106b806339f4a5b0a427dc11abc5360f7c21e8a15",
+      "last_relevant_url": "https://t.me/jvmjobs/6051",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/Remoteit": {
+      "last_post_id": "13098",
+      "last_post_hash": "695f105e92783157a52624757aeeff99f10831ad0ac847b8e3b5a42df5bd22a8",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/choicy_work": {
+      "last_post_id": "2211",
+      "last_post_hash": "ea83dd2008a38b710f81930b72121548f8f6e578de4e82fab072624e09d801b6",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/devs_it": {
+      "last_post_id": "5254",
+      "last_post_hash": "e409edddb7507169fc15dca03f9c4fee1277b546db2215d6450741e55531936a",
+      "last_relevant_url": "https://t.me/devs_it/5247",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/Getitrussia": {
+      "last_post_id": "3985",
+      "last_post_hash": "b1efb50df44adfc435277348863803dc8f772c8880f1811d8e2328c0e5bdd5c3",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/haas_vacancies": {
+      "last_post_id": "265",
+      "last_post_hash": "dcedee25b94d79b0461b6ed96a9493911e021178896b032a6aa8d5428ed6a3ab",
+      "last_relevant_url": "https://t.me/haas_vacancies/251",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/java_c_net_golang_jobs": {
+      "last_post_id": "422",
+      "last_post_hash": "4149ff394d2b63ebb88bacfe42a4dcbcd2bcd8587fc481b3dcf84b6281662def",
+      "last_relevant_url": "https://t.me/java_c_net_golang_jobs/398",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/Java_workit": {
+      "last_post_id": "354",
+      "last_post_hash": "41eff57c5e72daa0af84128f992562edfe29e77c8d60e68268656bffec01f2c7",
+      "last_relevant_url": "https://t.me/Java_workit/354",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/java_spring_job_geeklink": {
+      "last_post_id": "527",
+      "last_post_hash": "c2187bcecf97452ff3e84e60b7183ebae8678fe9bdd2c669fc794f396f6aa952",
+      "last_relevant_url": "https://t.me/java_spring_job_geeklink/515",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/jc_it": {
+      "last_post_id": "6331",
+      "last_post_hash": "07bdf3f63a87c14aa7c0c35c79eb88aff00cfe60f6033e9918c66cf3e2fdb29a",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/jobsearchhhhh": {
+      "last_post_id": "1150",
+      "last_post_hash": "03c217d6ceed6122df921359fdaa90d78f13b4d9633974331121167d6b62fa34",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/jtbl_vacancy": {
+      "last_post_id": "2842",
+      "last_post_hash": "bb4ff176e29f45905456cea50542be3c8e93e3da2987f6a2ebde664d7f7dc556",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/linked_jobs": {
+      "last_post_id": "1857",
+      "last_post_hash": "99dcafe45ae5e1d5d01d6b918d8d80cf18904634a279daa94aa942275f853a75",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/mtsfintechjobs": {
+      "last_post_id": "2274",
+      "last_post_hash": "364333c5d7135c19cc6e7886fdd8dce18ef7be344301a325f32e7421deb011d1",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/proglib_jobs": {
+      "last_post_id": "845",
+      "last_post_hash": "7cf6415c42a25e5b78ed355a3516b4bc4bee71569b9871a22efcf429fcf00b5f",
+      "last_relevant_url": "https://t.me/proglib_jobs/843",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/runello_rus_backend": {
+      "last_post_id": "3737",
+      "last_post_hash": "408dc2aab60838b97931081991b4dfc10de7a70c693e855bf0e6f29f24a282b5",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/backend_frontend_jobs": {
+      "last_post_id": "861",
+      "last_post_hash": "874b553f64b6b6a2dfd5456affa8c214dc7c32b15a6333b48a169e1a855acdb1",
+      "last_relevant_url": "https://t.me/backend_frontend_jobs/858",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://t.me/s/vacancy_it_ulbitv": {
+      "last_post_id": "315",
+      "last_post_hash": "8e47c3f7b6dbe74c1b982b7cc3d03ffcbd94c8c28380626a5f3a8929329fec0f",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://tg.i-c-a.su/rss/kotlin_jobs": {
+      "last_post_id": "599",
+      "last_post_hash": "3ee8ec3acfb5693720803c7abac2f270dce49147296aa83fc93788b5df0f8715",
+      "last_relevant_url": "https://t.me/kotlin_jobs/594",
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    },
+    "https://tg.i-c-a.su/rss/java_jobs": {
+      "last_post_id": "45411",
+      "last_post_hash": "d4bf172e540b261b988b9f4dec403f4260cfca12d1a0b4eee829366d8e0a56e9",
+      "last_relevant_url": null,
+      "status": "401 No access",
+      "checked_at_utc": "2026-04-21 19:22 UTC"
+    }
+  }
+}

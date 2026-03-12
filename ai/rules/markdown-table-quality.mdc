@@ -1,0 +1,17 @@
+---
+name: markdown-table-quality
+description: "Enforce markdown table quality for vacancy reports"
+globs:
+  - "job/job-channels.md"
+  - "job/positions.md"
+  - "job/skills.md"
+alwaysApply: true
+---
+# Markdown Table Quality
+
+- Keep all table headers and column counts consistent per file.
+- **`job/job-channels.md`:** single-column URL table (or equivalent list); no bookmark or status columns.
+- Preserve section titles and order within each file.
+- Use concise summaries in matching-post rows in `job/positions.md` where applicable.
+- Keep `job/skills.md` ranked by mentions descending.
+- Channel URLs in `job/job-channels.md` stay stable and human-readable (full `https://...` links).

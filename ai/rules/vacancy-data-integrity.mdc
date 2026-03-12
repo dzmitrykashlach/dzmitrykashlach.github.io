@@ -1,0 +1,14 @@
+---
+name: vacancy-data-integrity
+description: "Keep vacancy pipeline data consistent; checkpoints JSON is authoritative"
+alwaysApply: true
+---
+# Vacancy Data Integrity
+
+- **Live state:** `job/channel-checkpoints.json` — single source for `updated_at_utc`, per-channel `last_post_id`, `last_relevant_url`, `status`, `checked_at_utc`.
+- **Input list only:** `job/job-channels.md` — channel source URLs; do not store bookmarks or “Last results” here.
+- Always refresh **`updated_at_utc`** on a full processing run (UTC `YYYY-MM-DD HH:MM UTC`).
+- Keep channels with error-like **`status`** (`401 No access`, `Parse failed`) documented in JSON (ordering can follow project convention).
+- Do not drop channel rows from `job/job-channels.md` unless explicitly requested.
+- If no matching vacancy for a channel, set **`last_relevant_url`** to `null` and **`status`** to `No match` when appropriate.
+- Assign **`Parse failed`** only when parsing still fails after retry on rendered channel content.
