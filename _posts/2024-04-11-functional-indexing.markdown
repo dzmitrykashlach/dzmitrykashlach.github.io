@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Functional indexing"
 date:   2024-04-11 17:37:07 +0300

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Algorithmic games: shortest path"
 date:   2023-07-31 00:42:07 +0300

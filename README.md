@@ -82,6 +82,31 @@ bundle exec jekyll build
 
 The output will be in the `_site` directory. This directory is typically git-ignored.
 
+## Export resume to PDF
+
+Install JS dependencies once:
+
+```bash
+npm install
+```
+
+Generate all resume PDFs (EN + RU + non-IT RU):
+
+```bash
+npm run pdf:resume
+```
+
+Generated files:
+- `_site/resume/resume_en.pdf`
+- `_site/resume/resume_ru.pdf`
+- `_site/resume/resume_non_it_ru.pdf`
+
+Non-IT RU only (not in site nav; edit `resume_non-it_ru.markdown`):
+
+```bash
+npm run pdf:resume:non-it-ru:all
+```
+
 ## Troubleshooting
 
 ### Port Already in Use
@@ -128,7 +153,8 @@ bundle exec jekyll serve --force_polling
 - `_config.yml`: Jekyll configuration
 - `_posts/`: Blog posts (markdown files with date prefix)
 - `_site/`: Generated site (git-ignored, do not edit manually)
-- `resume_en.markdown` / `resume_ru.markdown`: Resume pages
+- `resume_en.markdown` / `resume_ru.markdown`: Resume pages (in site nav)
+- `resume_non-it_ru.markdown`: Hidden non-IT RU resume (same layout, not in nav)
 - `index.markdown`: Homepage
 - `Gemfile`: Ruby dependencies
 

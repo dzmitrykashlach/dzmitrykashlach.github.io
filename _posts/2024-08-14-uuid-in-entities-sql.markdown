@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title: "UUID in SQL: insert & reindex performance"
 date: 2024-08-14 10:00:00 +0300

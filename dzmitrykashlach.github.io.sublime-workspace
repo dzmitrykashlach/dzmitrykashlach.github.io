@@ -1,0 +1,692 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dzmitrykashlach.github.io.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "it-job-channels.md",
+			"settings":
+			{
+				"buffer_size": 551,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC8CAAAAAAAALwIAAAAAAAAfAAAAfCBodHRwczovL3QubWUvcy9qdm1qb2JzIHwgICB8Cg",
+					"AQAAAAAAAAABAAAALwIAAAAAAABOAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					54,
+					1,
+					"left_delete",
+					null,
+					"AQAAALQCAAAAAAAAtAIAAAAAAAAmAAAAfCBodHRwczovL3QubWUvcy9oYWFzX3ZhY2FuY2llcyB8ICAgfAo",
+					"AQAAAAAAAAABAAAAtAIAAAAAAADaAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					62,
+					1,
+					"left_delete",
+					null,
+					"AQAAALQCAAAAAAAAtAIAAAAAAAAuAAAAfCBodHRwczovL3QubWUvcy9qYXZhX2NfbmV0X2dvbGFuZ19qb2JzIHwgICB8Cg",
+					"AQAAAAAAAAABAAAAtAIAAAAAAADiAgAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					71,
+					1,
+					"left_delete",
+					null,
+					"AQAAANcCAAAAAAAA1wIAAAAAAAAwAAAAfCBodHRwczovL3QubWUvcy9qYXZhX3NwcmluZ19qb2JfZ2Vla2xpbmsgfCAgIHwK",
+					"AQAAAAAAAAABAAAA1wIAAAAAAAAHAwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					89,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGADAAAAAAAAYAMAAAAAAAAkAAAAfCBodHRwczovL3QubWUvcy9wcm9nbGliX2pvYnMgfCAgIHwK",
+					"AQAAAAAAAAABAAAAYAMAAAAAAACEAwAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					106,
+					1,
+					"left_delete",
+					null,
+					"AQAAABoAAAAAAAAAGgAAAAAAAABJAQAAIyBKb2IgY2hhbm5lbCBsaXN0IChpbnB1dCkKCioqQ3Jhd2wgYW5kIG1hdGNoIHN0YXRlKiogKGJvb2ttYXJrcywgbGFzdCBwb3N0IGlkLCBgTWF0Y2hgIC8gYE5vIG1hdGNoYCAvIGVycm9ycykgbGl2ZSBvbmx5IGluIFtgY2hhbm5lbC1jaGVja3BvaW50cy5qc29uYF0oY2hhbm5lbC1jaGVja3BvaW50cy5qc29uKS4gVGhpcyBmaWxlIGlzIHRoZSAqKnN0YXRpYyBsaXN0IG9mIHNvdXJjZSBVUkxzKiogdG8gcHJvY2VzcyAoVGVsZWdyYW0gYHQubWUvcy8uLi5gIHByZXZpZXdzLCBSU1MgbWlycm9ycywgZXRjLikuCgojIyBDaGFubmVscwoKfCBVUkwgfCAgIHwKfDotLS0tfC0tLXw",
+					"AQAAAAAAAAABAAAAYwEAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					109,
+					2,
+					"left_delete",
+					null,
+					"AgAAABwAAAAAAAAAHAAAAAAAAAABAAAAIBsAAAAAAAAAGwAAAAAAAAABAAAAfA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					112,
+					1,
+					"left_delete",
+					null,
+					"AQAAADkAAAAAAAAAOQAAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFkAAAAAAAAAWQAAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHkAAAAAAAAAeQAAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAeQAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJoAAAAAAAAAmgAAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"left_delete",
+					null,
+					"AQAAALoAAAAAAAAAugAAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"left_delete",
+					null,
+					"AQAAANoAAAAAAAAA2gAAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					130,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPgAAAAAAAAA+AAAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAA+AAAAAAAAAD6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"left_delete",
+					null,
+					"AQAAABkBAAAAAAAAGQEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAGQEAAAAAAAAbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					136,
+					1,
+					"left_delete",
+					null,
+					"AQAAADYBAAAAAAAANgEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAANgEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					139,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFcBAAAAAAAAVwEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAVwEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					142,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHgBAAAAAAAAeAEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAeAEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					145,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJMBAAAAAAAAkwEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAkwEAAAAAAACVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					1,
+					"left_delete",
+					null,
+					"AQAAALYBAAAAAAAAtgEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAtgEAAAAAAAC4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAABoAAAAAAAAAHAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "`"
+					},
+					"AQAAABwAAAAAAAAAHQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"insert",
+					{
+						"characters": "```"
+					},
+					"AwAAAKACAAAAAAAAoQIAAAAAAAAAAAAAoQIAAAAAAACiAgAAAAAAAAAAAACiAgAAAAAAAKMCAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAIAAAAAAACgAgAAAAAAAAAAAAAAADlA"
+				],
+				[
+					162,
+					1,
+					"left_delete",
+					null,
+					"AQAAANsBAAAAAAAA2wEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					165,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPwBAAAAAAAA/AEAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAA/AEAAAAAAAD+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					168,
+					1,
+					"left_delete",
+					null,
+					"AQAAACUCAAAAAAAAJQIAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAJQIAAAAAAAAnAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					171,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFACAAAAAAAAUAIAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAUAIAAAAAAABSAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					174,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHcCAAAAAAAAdwIAAAAAAAACAAAAfCA",
+					"AQAAAAAAAAABAAAAdwIAAAAAAAB5AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					6,
+					"left_delete",
+					null,
+					"BgAAAJQCAAAAAAAAlAIAAAAAAAABAAAAfJMCAAAAAAAAkwIAAAAAAAABAAAAIJICAAAAAAAAkgIAAAAAAAABAAAAIJECAAAAAAAAkQIAAAAAAAABAAAAIJACAAAAAAAAkAIAAAAAAAABAAAAfI8CAAAAAAAAjwIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAlQIAAAAAAACVAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					182,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHACAAAAAAAAcAIAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAcAIAAAAAAAB2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEkCAAAAAAAASQIAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAASQIAAAAAAABPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"left_delete",
+					null,
+					"AQAAAB4CAAAAAAAAHgIAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAHgIAAAAAAAAkAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					197,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUBAAAAAAAA9QEAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAA+wEAAAAAAAD1AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					201,
+					1,
+					"left_delete",
+					null,
+					"AQAAANQBAAAAAAAA1AEAAAAAAAAGAAAAIHwgMSB8",
+					"AQAAAAAAAAABAAAA1AEAAAAAAADaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					205,
+					1,
+					"left_delete",
+					null,
+					"AQAAALIBAAAAAAAAsgEAAAAAAAAGAAAAIHwgMSB8",
+					"AQAAAAAAAAABAAAAsgEAAAAAAAC4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					210,
+					1,
+					"left_delete",
+					null,
+					"AQAAAI8BAAAAAAAAjwEAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAlQEAAAAAAACPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					214,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHQBAAAAAAAAdAEAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAdAEAAAAAAAB6AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					217,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFMBAAAAAAAAUwEAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAUwEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					221,
+					1,
+					"left_delete",
+					null,
+					"AQAAADIBAAAAAAAAMgEAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAAyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					225,
+					1,
+					"left_delete",
+					null,
+					"AQAAABUBAAAAAAAAFQEAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAFQEAAAAAAAAbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					229,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPQAAAAAAAAA9AAAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAA+gAAAAAAAAD0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					233,
+					1,
+					"left_delete",
+					null,
+					"AQAAANYAAAAAAAAA1gAAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAA1gAAAAAAAADcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					237,
+					1,
+					"left_delete",
+					null,
+					"AQAAALYAAAAAAAAAtgAAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					241,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJYAAAAAAAAAlgAAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAlgAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					245,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHUAAAAAAAAAdQAAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					248,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFUAAAAAAAAAVQAAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					252,
+					1,
+					"left_delete",
+					null,
+					"AQAAADUAAAAAAAAANQAAAAAAAAAGAAAAIHwgICB8",
+					"AQAAAAAAAAABAAAANQAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"TodoReview: Project",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TodoReview: Project and Open Files",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TodoReview: Project Files",
+				"TodoReview: Project Files"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/job/src/dzmitrykashlach.github.io"
+	],
+	"file_history":
+	[
+		"/D/job/src/dzmitrykashlach.github.io/job/collected_stderr.txt",
+		"/D/job/src/dzmitrykashlach.github.io/resume_ru.markdown",
+		"/D/job/src/cnc/zembin/zembin-acrylic-glass-centered/top/1zag05.plt",
+		"/D/job/src/dzmitrykashlach.github.io/resume_non-it_ru.markdown",
+		"/D/job/src/cnc/zembin/500-hod/operations.txt",
+		"/D/job/src/cnc/cnc.sublime-project",
+		"/D/job/aspire-vectric/dynama/logo.jpg",
+		"/D/job/src/cnc/holes-labyrinth/holes-labyrinth.todo",
+		"/D/job/aspire-vectric/holes-labyrinth/holes-labyrinth.todo",
+		"/D/job/src/cnc/zembin-for-medal/operations.txt",
+		"/D/job/src/cnc/todo.todo",
+		"/C/Users/dzmit/AppData/Roaming/Sublime Text/Packages/PlainTasks/messages/Tutorial.todo",
+		"/D/job/src/cnc/20x30/operations.txt",
+		"/D/job/src/cnc/labyrinth/operations.txt",
+		"/D/job/src/cnc/operations-check-list.txt",
+		"/D/job/src/cnc/vectric.ffs_batch",
+		"/D/job/src/cnc/20x30/2030-6.plt",
+		"/D/job/src/cnc/HOW-TO.md",
+		"/D/job/src/cnc/zembin-for-medal/1zfm6.plt",
+		"/D/job/src/cnc/dragon/drg1.plt",
+		"/D/job/src/cnc/egp-check-list.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dzmitrykashlach.github.io.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "it-job-channels.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "dzmitrykashlach.github.io.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 446.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

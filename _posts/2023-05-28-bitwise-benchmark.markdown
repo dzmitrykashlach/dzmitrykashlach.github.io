@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Wise bits"
 date:   2023-05-28 00:42:07 +0300

@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Kotlin coroutines: asynchronous maneuvers"
 date:   2023-05-12 00:00:07 +0300
