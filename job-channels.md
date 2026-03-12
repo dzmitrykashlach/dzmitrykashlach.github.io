@@ -16,36 +16,37 @@ published: false
 
 # Job Channels
 
-**Last results:** 2026-03-11 06:57 UTC
+**Last results:** 2026-04-03 14:28 UTC
 
 ## Channels
 
 | Channel                                  | Last processed post                         |
 |:-----------------------------------------|:--------------------------------------------|
-| https://t.me/s/alljvmjobs                | https://t.me/alljvmjobs/4585                |
-| https://t.me/s/habr_career               | https://t.me/habr_career/74780              |
-| https://t.me/s/javaoffers                | https://t.me/javaoffers/452                 |
-| https://t.me/s/javadevjob                | https://t.me/javadevjob/3294                |
+| https://t.me/s/alljvmjobs                | https://t.me/alljvmjobs/4626                |
+| https://t.me/s/habr_career               | https://t.me/habr_career/74950              |
+| https://t.me/s/javaoffers                | https://t.me/javaoffers/461                 |
+| https://t.me/s/javadevjob                | https://t.me/javadevjob/3314                |
 | https://t.me/s/jvmjobs                   | https://t.me/jvmjobs/6051                   |
-| https://t.me/s/Remoteit                  | https://t.me/Remoteit/12785                 |
-| https://t.me/s/aston_jobs                | https://t.me/aston_jobs/765                 |
-| https://t.me/s/choicy_work               | https://t.me/choicy_work/2180               |
-| https://t.me/s/devs_it                   | https://t.me/devs_it/5132                   |
-| https://t.me/s/geekjobs                  | https://t.me/geekjobs/9981                  |
-| https://t.me/s/Getitrussia               | https://t.me/Getitrussia/3856               |
-| https://t.me/s/haas_vacancies            | https://t.me/haas_vacancies/262             |
-| https://t.me/s/java_c_net_golang_jobs    | https://t.me/java_c_net_golang_jobs/405     |
-| https://t.me/s/Java_workit               | https://t.me/Java_workit/349                |
-| https://t.me/s/java_spring_job_geeklink  | https://t.me/java_spring_job_geeklink/527   |
-| https://t.me/s/jc_it                     | https://t.me/jc_it/6237                     |
-| https://t.me/s/jobsearchhhhh             | https://t.me/jobsearchhhhh/980              |
-| https://t.me/s/jtbl_vacancy              | https://t.me/jtbl_vacancy/2393              |
-| https://t.me/s/linked_jobs               | https://t.me/linked_jobs/1771               |
-| https://t.me/s/mtsfintechjobs            | https://t.me/mtsfintechjobs/2192            |
-| https://t.me/s/proglib_jobs              | https://t.me/proglib_jobs/776               |
-| https://t.me/s/runello_rus_backend       | https://t.me/runello_rus_backend/3558       |
-| https://t.me/s/backend_frontend_jobs     | https://t.me/backend_frontend_jobs/824      |
-| https://t.me/s/vacancy_it_ulbitv         | 401 No access                               |
+| https://t.me/s/Remoteit                  | https://t.me/Remoteit/13020                 |
+| https://t.me/s/aston_jobs                | https://t.me/aston_jobs/785                 |
+| https://t.me/s/choicy_work               | https://t.me/choicy_work/2201               |
+| https://t.me/s/devs_it                   | https://t.me/devs_it/5210                   |
+| https://t.me/s/geekjobs                  | https://t.me/geekjobs/10036                 |
+| https://t.me/s/Getitrussia               | https://t.me/Getitrussia/3942               |
+| https://t.me/s/haas_vacancies            | https://t.me/haas_vacancies/263             |
+| https://t.me/s/java_c_net_golang_jobs    | https://t.me/java_c_net_golang_jobs/421      |
+| https://t.me/s/java_c_net_golang_jobs    | https://t.me/java_c_net_golang_jobs/421      |
+| https://t.me/s/Java_workit               | https://t.me/Java_workit/351                |
+| https://t.me/s/java_spring_job_geeklink  | https://t.me/java_spring_job_geeklink/527    |
+| https://t.me/s/jc_it                     | https://t.me/jc_it/6299                     |
+| https://t.me/s/jobsearchhhhh             | https://t.me/jobsearchhhhh/1109             |
+| https://t.me/s/jtbl_vacancy              | https://t.me/jtbl_vacancy/2666              |
+| https://t.me/s/linked_jobs               | https://t.me/linked_jobs/1828               |
+| https://t.me/s/mtsfintechjobs            | https://t.me/mtsfintechjobs/2247            |
+| https://t.me/s/proglib_jobs              | https://t.me/proglib_jobs/818               |
+| https://t.me/s/runello_rus_backend       | https://t.me/runello_rus_backend/3694       |
+| https://t.me/s/backend_frontend_jobs     | https://t.me/backend_frontend_jobs/847      |
+| https://t.me/s/vacancy_it_ulbitv         | https://t.me/vacancy_it_ulbitv/294          |
 | https://tg.i-c-a.su/rss/kotlin_jobs      | 401 No access                               |
 | https://tg.i-c-a.su/rss/java_jobs        | 401 No access                               |
 
@@ -55,40 +56,16 @@ Selected per [resume](https://dzmitrykashlach.github.io/resume/en).
 
 | Vacancy | Link                                                     | Channel                |
 | :------ |:---------------------------------------------------------|:-----------------------|
-| Middle Kotlin Developer (Salmon) | https://t.me/alljvmjobs/4583 | alljvmjobs |
-| Старший Java-разработчик (Ozon Tech) | https://t.me/alljvmjobs/4582 | alljvmjobs |
-| Senior Java Developer with AWS (DataArt) | https://t.me/alljvmjobs/4580 | alljvmjobs |
-| Senior Backend Developer Java (Onde) | https://t.me/alljvmjobs/4576 | alljvmjobs |
-| Senior / Staff Java Backend (Uzum Market) | https://t.me/alljvmjobs/4573 | alljvmjobs |
-| Java developer Spring/Spring Boot (Choicy) | https://t.me/choicy_work/2163 | choicy_work |
-| Senior Java Developer (Synder) | https://t.me/alljvmjobs/4567 | alljvmjobs |
-| Java-разработчик Fintech (DatsTeam) | https://t.me/javadevjob/3271 | javadevjob |
-| Lead Java Developer (HaaS) | https://t.me/javaoffers/445 | javaoffers |
-| Backend Developer Java/Scala (HaaS) | https://t.me/haas_vacancies/251 | haas_vacancies |
-| Senior Java Developer (Centicore) | https://t.me/jvmjobs/6036 | jvmjobs |
-| Backend Kotlin (Comfi) | https://t.me/jvmjobs/6032 | jvmjobs |
-| Team Lead Java (FinHarbor) | https://t.me/jvmjobs/6033 | jvmjobs |
-| Senior Java Developer (Xenoss) | https://t.me/alljvmjobs/4571 | alljvmjobs |
-| Senior Java Developer (FinDev) | https://t.me/alljvmjobs/4569 | alljvmjobs |
-| Java (Т-банк) | https://t.me/javadevjob/3294 | javadevjob |
 
 ## Skills from Vacancies (not in resume)
 
-Ranked by mentions across matching vacancies.
+Ranked by mentions across matching vacancies (ties sorted alphabetically). Sourced from explicit «стек» / «наш стек» lines in the posts where available.
 
 | Skill | Mentions | Vacancies |
 | :---- | -------: | :-------- |
-| Spring Cloud | 3 | Centicore, FinHarbor, DatsTeam |
-| ClickHouse | 3 | IDX, Triple Lemniscate, DatsTeam |
-| Scala | 3 | HaaS, Salmon, Yandex |
-| Camunda | 2 | Comfi, LifeIT |
-| MongoDB | 2 | Centicore, DatsTeam |
-| Temporal | 1 | Innovative People |
-| Hazelcast | 1 | DatsTeam |
-| Quarkus | 1 | BIV |
-| gRPC | 1 | FunFlow |
-| Netty | 1 | RingCentral |
-| Oracle | 1 | Т-банк |
-| JMS | 1 | Т-банк |
-| AMQP | 1 | Т-банк |
-| Unix/Linux | 1 | Т-банк |
+| Aerospike | 1 | Tango (Senior Java) |
+| GCP | 1 | Tango (Senior Java) |
+| gRPC | 1 | Точка Банк (АБС техлид) |
+| Hibernate | 1 | Точка Банк (АБС техлид) |
+| RabbitMQ | 1 | Точка Банк (АБС техлид) |
+| Redis | 1 | Tango (Senior Java) |
