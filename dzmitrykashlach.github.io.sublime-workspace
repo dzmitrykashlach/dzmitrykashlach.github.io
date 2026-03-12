@@ -1,0 +1,225 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"TodoReview: Project",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TodoReview: Project and Open Files",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TodoReview: Project Files",
+				"TodoReview: Project Files"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/job/src/dzmitrykashlach.github.io"
+	],
+	"file_history":
+	[
+		"/D/job/src/dzmitrykashlach.github.io/resume_ru.markdown",
+		"/D/job/src/cnc/zembin/zembin-acrylic-glass-centered/top/1zag05.plt",
+		"/D/job/src/dzmitrykashlach.github.io/resume_non-it_ru.markdown",
+		"/D/job/src/cnc/zembin/500-hod/operations.txt",
+		"/D/job/src/cnc/cnc.sublime-project",
+		"/D/job/aspire-vectric/dynama/logo.jpg",
+		"/D/job/src/cnc/holes-labyrinth/holes-labyrinth.todo",
+		"/D/job/aspire-vectric/holes-labyrinth/holes-labyrinth.todo",
+		"/D/job/src/cnc/zembin-for-medal/operations.txt",
+		"/D/job/src/cnc/todo.todo",
+		"/C/Users/dzmit/AppData/Roaming/Sublime Text/Packages/PlainTasks/messages/Tutorial.todo",
+		"/D/job/src/cnc/20x30/operations.txt",
+		"/D/job/src/cnc/labyrinth/operations.txt",
+		"/D/job/src/cnc/operations-check-list.txt",
+		"/D/job/src/cnc/vectric.ffs_batch",
+		"/D/job/src/cnc/20x30/2030-6.plt",
+		"/D/job/src/cnc/HOW-TO.md",
+		"/D/job/src/cnc/zembin-for-medal/1zfm6.plt",
+		"/D/job/src/cnc/dragon/drg1.plt",
+		"/D/job/src/cnc/egp-check-list.txt"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "",
+	"project": "dzmitrykashlach.github.io.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 446.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
