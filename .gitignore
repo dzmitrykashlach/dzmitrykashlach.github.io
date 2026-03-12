@@ -1,6 +1,9 @@
 _site
+job/collected_raw.json
+
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
 .idea
+node_modules
